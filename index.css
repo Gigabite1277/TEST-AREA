@@ -1,0 +1,35 @@
+@charset "utf-8";
+/* CSS Document */
+
+.firstdiv {
+	font:"Arial Black", Gadget, sans-serif; 
+	font-size:18px;
+	background-color:#09F;
+	border-width: 20px;
+}
+.seconddiv {
+	font:"Arial Black", Gadget, sans-serif; 
+	font-size:18px;
+	background-color:#09F;
+	border-width: 20px;
+}
+.thirddiv {
+	font:"Arial Black", Gadget, sans-serif; 
+	font-size:18px;
+	background-color:#09F;
+	border-width: 20px;
+}
+
+body { padding-right:50px;
+	   padding-left:50px;
+	   border-top:20px;
+	   border-bottom:20px;
+	   background-color:#CCC
+}
+
+.fourthdiv {
+		font:"Arial Black", Gadget, sans-serif; 
+	font-size:18px;
+	background-color:#09F;
+	border-width: 20px;
+}
